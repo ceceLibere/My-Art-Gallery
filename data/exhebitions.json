@@ -1,0 +1,822 @@
+[ 
+    {
+       "artistId": 2, 
+       "name": "Milan Andonov", 
+       "country": "Macedonia", 
+       "exhebitionId": 1,
+       "exhebitionName": "Faces",
+       "period": "01.02.2018-27.02.2018",
+       "images":[
+          {
+            "category": "painting", 
+            "style": "Portraiture", 
+            "title": "Deceit in duplicity", 
+            "url": "https://assets.saatchiart.com/saatchi/686321/art/3502348/2572235-YMEVJNWI-8.jpg", 
+            "year": 2016, 
+            "imgId": 9, 
+            "styleId": 32, 
+            "thumbnailUrl": "https://assets.saatchiart.com/saatchi/686321/art/3502348/2572235-YMEVJNWI-8.jpg"
+          },
+         
+          {
+            "category": "painting", 
+            "style": "Portraiture", 
+            "title": "Diminishing", 
+            "url": "http://www.blesok.com.mk/Images/Gallery/95/ma/10.jpg", 
+            "year": 2016, 
+            "imgId": 10, 
+            "styleId": 32, 
+            "thumbnailUrl": "http://www.blesok.com.mk/Images/Gallery/95/ma/10.jpg"
+          }, 
+         
+          {
+            "category": "painting", 
+            "style": "Portraiture", 
+            "title": "Subsequent Morph", 
+            "url": "https://assets.saatchiart.com/saatchi/686321/art/3490222/2560109-JGUIGDBS-7.jpg", 
+            "year": 2016, 
+            "imgId": 11, 
+            "styleId": 32, 
+            "thumbnailUrl": "https://assets.saatchiart.com/saatchi/686321/art/3490222/2560109-JGUIGDBS-7.jpg"
+          }, 
+
+          {
+            "category": "painting", 
+            "style": "Portraiture", 
+            "title": "Sheikh Khalifa", 
+            "url": "https://static.wixstatic.com/media/2bc176_647afa1bd54c4c8ca60f188537de30df~mv2_d_2333_1862_s_2.jpg/v1/fill/w_429,h_342,al_c,q_90,usm_0.66_1.00_0.01/2bc176_647afa1bd54c4c8ca60f188537de30df~mv2_d_2333_1862_s_2.webp", 
+            "year": 2017, 
+            "imgId": 12, 
+            "styleId": 32, 
+            "thumbnailUrl": "https://static.wixstatic.com/media/2bc176_647afa1bd54c4c8ca60f188537de30df~mv2_d_2333_1862_s_2.jpg/v1/fill/w_429,h_342,al_c,q_90,usm_0.66_1.00_0.01/2bc176_647afa1bd54c4c8ca60f188537de30df~mv2_d_2333_1862_s_2.webp"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Portraiture", 
+            "title": "Gaze", 
+            "url": "https://static.wixstatic.com/media/2bc176_7883e5d7ecb84c0babf2dba896f6f4de~mv2_d_2855_2291_s_2.jpg/v1/fill/w_426,h_342,al_c,q_90,usm_0.66_1.00_0.01/2bc176_7883e5d7ecb84c0babf2dba896f6f4de~mv2_d_2855_2291_s_2.webp", 
+            "year": 2017, 
+            "imgId": 13, 
+            "styleId": 32, 
+            "thumbnailUrl": "https://static.wixstatic.com/media/2bc176_7883e5d7ecb84c0babf2dba896f6f4de~mv2_d_2855_2291_s_2.jpg/v1/fill/w_426,h_342,al_c,q_90,usm_0.66_1.00_0.01/2bc176_7883e5d7ecb84c0babf2dba896f6f4de~mv2_d_2855_2291_s_2.webp"
+          }, 
+     
+          {
+            "category": "painting", 
+            "style": "Portraiture", 
+            "title": "The Girl 2", 
+            "url": "https://assets.saatchiart.com/saatchi/686321/art/3488608/2558495-APOJGMNG-7.jpg", 
+            "year": 2016, 
+            "imgId": 16, 
+            "styleId": 32, 
+            "thumbnailUrl": "https://assets.saatchiart.com/saatchi/686321/art/3488608/2558495-APOJGMNG-7.jpg"
+          }, 
+         
+          {
+            "category": "painting", 
+            "style": "Surrealism", 
+            "title": "and then we were born", 
+            "url": "https://d2198h3ewmw485.cloudfront.net/uploads/artworks/main_images/aa68020328687487773d_and_then_we_were_born_acrylic_and_pastel_on_paper_100_x_200_cm.jpg?width=460&height=322&quality=90&flatten=1", 
+            "year": 2016, 
+            "imgId": 18, 
+            "styleId": 37, 
+            "thumbnailUrl": "https://d2198h3ewmw485.cloudfront.net/uploads/artworks/main_images/aa68020328687487773d_and_then_we_were_born_acrylic_and_pastel_on_paper_100_x_200_cm.jpg?width=460&height=322&quality=90&flatten=1"
+          }
+    ]
+},
+
+{
+    "artistId": 7,
+    "name": "Jordan Manasievski", 
+    "country": "Macedonia", 
+    "exhebitionId": 2,
+    "exhebitionName": "Love and the sun valley",
+    "period": "10.03.2018-23.03.2018",
+    "images":[
+        {
+        "category": "painting", 
+        "style": "Contemporary painting", 
+        "title": "Friends of the light", 
+        "url": "http://www.bukefal.com.mk/sites/default/files/91e8a2dc-a6ee-4117-8e95-9b93eebeaeac-large_1.jpeg", 
+        "year": 2010, 
+        "imgId": 59, 
+        "styleId": 9, 
+        "thumbnailUrl": "http://www.bukefal.com.mk/sites/default/files/91e8a2dc-a6ee-4117-8e95-9b93eebeaeac-large_1.jpeg"
+        }, 
+        {
+        "category": "painting", 
+        "style": "Contemporary painting", 
+        "title": "Three pearls of heaven", 
+        "url": "http://www.bukefal.com.mk/sites/default/files/tri%20biseri%20nebesni%2C29x20%2C5%202014.JPG", 
+        "year": 2014, 
+        "imgId": 60, 
+        "styleId": 9, 
+        "thumbnailUrl": "http://www.bukefal.com.mk/sites/default/files/tri%20biseri%20nebesni%2C29x20%2C5%202014.JPG"
+        }, 
+        {
+        "category": "painting", 
+        "style": "Contemporary painting", 
+        "title": "Red symphony", 
+        "url": "http://www.bukefal.com.mk/sites/default/files/crvena%20simfonia%2C%2029x22%2C%202009.jpg", 
+        "year": 2009, 
+        "imgId": 61, 
+        "styleId": 9, 
+        "thumbnailUrl": "http://www.bukefal.com.mk/sites/default/files/crvena%20simfonia%2C%2029x22%2C%202009.jpg"
+        }, 
+        {
+        "category": "painting", 
+        "style": "Contemporary painting", 
+        "title": "Girl with the blue ball", 
+        "url": "http://www.bukefal.com.mk/sites/default/files/IMG_20180415_141526.jpg", 
+        "year": 2017, 
+        "imgId": 63, 
+        "styleId": 9, 
+        "thumbnailUrl": "http://www.bukefal.com.mk/sites/default/files/IMG_20180415_141526.jpg"
+        }, 
+        {
+        "category": "painting", 
+        "style": "Contemporary painting", 
+        "title": "Mother! Thank you for the Holly gift", 
+        "url": "http://www.bukefal.com.mk/sites/default/files/Ti%20blagodarime%20majko%20za%20svetiot%20dar%2C%2070x90%2C%202017.JPG", 
+        "year": 2017, 
+        "imgId": 64, 
+        "styleId": 9, 
+        "thumbnailUrl": "http://www.bukefal.com.mk/sites/default/files/Ti%20blagodarime%20majko%20za%20svetiot%20dar%2C%2070x90%2C%202017.JPG"
+        }, 
+        {
+        "category": "painting", 
+        "style": "Contemporary painting", 
+        "title": "For the blue valley", 
+        "url": "http://www.bukefal.com.mk/sites/default/files/DSC_0692.jpg", 
+        "year": 2013, 
+        "imgId": 65, 
+        "styleId": 9, 
+        "thumbnailUrl": "http://www.bukefal.com.mk/sites/default/files/DSC_0692.jpg"
+        },      
+        {
+        "category": "painting", 
+        "style": "Contemporary painting", 
+        "title": "Ohrid's morning", 
+        "url": "http://www.bukefal.com.mk/sites/default/files/21330777_10207994646783095_1416519317_o.jpg", 
+        "year": 2017, 
+        "imgId": 68, 
+        "styleId": 9, 
+        "thumbnailUrl": "http://www.bukefal.com.mk/sites/default/files/21330777_10207994646783095_1416519317_o.jpg"
+        }
+    ]
+},
+
+   {
+       "artistId": 19,  
+       "name": "Maja Kirovska", 
+       "country": "Macedonia", 
+       "exhebitionId": 3,
+       "exhebitionName": "TEMPERATURE, CIRCULATION, GRAVITATION...",
+       "period": "14.04.2018-24.04.2018",   
+       "images": [
+          {
+            "category": "installation", 
+            "style": "Installation Art", 
+            "title": "TEMPERATURE, CIRCULATION, GRAVITATION...", 
+            "url": "http://majakirovska.com/about/img/temperature/5.jpg", 
+            "year": 2012, 
+            "imgId": 169, 
+            "styleId": 19, 
+            "thumbnailUrl": "http://majakirovska.com/about/img/temperature/5.jpg"
+          }, 
+          {
+            "category": "installation", 
+            "style": "Installation Art", 
+            "title": "TEMPERATURE, CIRCULATION, GRAVITATION...", 
+            "url": "http://majakirovska.com/about/img/temperature/6.jpg", 
+            "year": 2012, 
+            "imgId": 170, 
+            "styleId": 19, 
+            "thumbnailUrl": "http://majakirovska.com/about/img/temperature/6.jpg"
+          }, 
+          {
+            "category": "installation", 
+            "style": "Installation Art", 
+            "title": "TEMPERATURE, CIRCULATION, GRAVITATION...", 
+            "url": "http://majakirovska.com/about/img/temperature/7.jpg", 
+            "year": 2012, 
+            "imgId": 171, 
+            "styleId": 19, 
+            "thumbnailUrl": "http://majakirovska.com/about/img/temperature/7.jpg"
+          }, 
+          {
+            "category": "installation", 
+            "style": "Installation Art", 
+            "title": "TEMPERATURE, CIRCULATION, GRAVITATION...", 
+            "url": "http://majakirovska.com/about/img/temperature/23.jpg", 
+            "year": 2012, 
+            "imgId": 172, 
+            "styleId": 19, 
+            "thumbnailUrl": "http://majakirovska.com/about/img/temperature/23.jpg"
+          }, 
+          {
+            "category": "installation", 
+            "style": "Installation Art", 
+            "title": "TEMPERATURE, CIRCULATION, GRAVITATION...", 
+            "url": "http://majakirovska.com/about/img/temperature/14.jpg", 
+            "year": 2012, 
+            "imgId": 173, 
+            "styleId": 19, 
+            "thumbnailUrl": "http://majakirovska.com/about/img/temperature/14.jpg"
+          }, 
+          {
+            "category": "installation", 
+            "style": "Installation Art", 
+            "title": "SISYPHUS! WHERE IS THE EXIT", 
+            "url": "http://majakirovska.com/about/img/sisyphus/5.jpg", 
+            "year": 2012, 
+            "imgId": 174, 
+            "styleId": 19, 
+            "thumbnailUrl": "http://majakirovska.com/about/img/sisyphus/5.jpg"
+          }, 
+          {
+            "category": "installation", 
+            "style": "Installation Art", 
+            "title": "SISYPHUS! WHERE IS THE EXIT", 
+            "url": "http://majakirovska.com/about/img/sisyphus/2.jpg", 
+            "year": 2012, 
+            "imgId": 175, 
+            "styleId": 19, 
+            "thumbnailUrl": "http://majakirovska.com/about/img/sisyphus/2.jpg"
+          }
+        
+     ] 
+},
+
+{
+    "artistId": 11,  
+    "name": "Atanas Botev", 
+    "country": "Macedonia", 
+    "exhebitionId": 4,
+    "exhebitionName": "TEMPERATURE, CIRCULATION, GRAVITATION...",
+    "period": "17.05.2018-07.06.2018",   
+    "images": [
+        {
+            "category": "painting", 
+            "style": "Surrealism", 
+            "title": "Tintin's Bad Trip", 
+            "url": "http://atanasbotev.com/image/deconstruction/02.jpg", 
+            "year": 2002, 
+            "imgId": 97, 
+            "styleId": 37, 
+            "thumbnailUrl": "http://atanasbotev.com/image/deconstruction/02.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Surrealism", 
+            "title": "Pontifex Maximus, 2004", 
+            "url": "http://atanasbotev.com/image/deconstruction/11.jpg", 
+            "year": 2004, 
+            "imgId": 98, 
+            "styleId": 37, 
+            "thumbnailUrl": "http://atanasbotev.com/image/deconstruction/11.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Surrealism", 
+            "title": "FREEZE!", 
+            "url": "http://atanasbotev.com/image/lucid/01.jpg", 
+            "year": 2012, 
+            "imgId": 99, 
+            "styleId": 37, 
+            "thumbnailUrl": "http://atanasbotev.com/image/lucid/01.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Surrealism", 
+            "title": "Retrogarde performance", 
+            "url": "http://atanasbotev.com/image/deconstruction/20.jpg", 
+            "year": 2007, 
+            "imgId": 101, 
+            "styleId": 37, 
+            "thumbnailUrl": "http://atanasbotev.com/image/deconstruction/20.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Cubism", 
+            "title": "Amnesty?", 
+            "url": "http://atanasbotev.com/image/deconstruction/21.jpg", 
+            "year": 2008, 
+            "imgId": 103, 
+            "styleId": 37, 
+            "thumbnailUrl": "http://atanasbotev.com/image/deconstruction/21.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Surrealism", 
+            "title": "Kalina", 
+            "url": "http://atanasbotev.com/image/lucid/09.jpg", 
+            "year": 2006, 
+            "imgId": 104, 
+            "styleId": 37, 
+            "thumbnailUrl": "http://atanasbotev.com/image/lucid/09.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Surrealism", 
+            "title": "Untitled", 
+            "url": "http://atanasbotev.com/image/disintegrations/06.jpg", 
+            "year": 2014, 
+            "imgId": 106, 
+            "styleId": 37, 
+            "thumbnailUrl": "http://atanasbotev.com/image/disintegrations/06.jpg"
+          }  
+     ]
+},
+{     
+    "artistId": 15, 
+    "name": "Ekaterina Bozhinovska - Bega", 
+    "country": "Macedonia", 
+    "exhebitionId": 5,
+    "exhebitionName": "The Oracle",
+    "period": "25.06.2018-15.07.2018",   
+    "images": [
+      {
+        "category": "drawing", 
+        "style": "Abstract Art", 
+        "title": "The Oracle", 
+        "url": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/11114335_loracle.jpg", 
+        "year": 2017, 
+        "imgId": 138, 
+        "styleId": 1, 
+        "thumbnailUrl": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/11114335_loracle.jpg"
+      }, 
+      {
+        
+        "category": "drawing", 
+        "style": "Abstract Art", 
+        "title": "Other World", 
+        "url": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/11161660_autre-monde-2000.jpg?v=1527585230", 
+        "year": 2000, 
+        "imgId": 135, 
+        "styleId": 1, 
+        "thumbnailUrl": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/11161660_autre-monde-2000.jpg?v=1527585230"
+      }, 
+      {
+        "category": "drawing", 
+        "style": "Abstract Art", 
+        "title": "Vesna", 
+        "url": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/11154637_vesna-2018.jpg?v=1527413126", 
+        "year": 2018, 
+        "imgId": 136, 
+        "styleId": 1, 
+        "thumbnailUrl": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/11154637_vesna-2018.jpg?v=1527413126"
+      }, 
+      {
+        "category": "painting", 
+        "style": "Modernism", 
+        "title": "Birth of the goddess", 
+        "url": "https://www.artmajeur.com/medias/mini/b/e/bega/artwork/11090710_birth-of-the-goddess-1992.jpg", 
+        "year": 2018, 
+        "imgId": 140, 
+        "styleId": 22, 
+        "thumbnailUrl": "https://www.artmajeur.com/medias/mini/b/e/bega/artwork/11090710_birth-of-the-goddess-1992.jpg"
+      }, 
+      {
+        "category": "painting", 
+        "style": "Modernism", 
+        "title": "Back to nature", 
+        "url": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/11006863_retour-a-la-nature-1992.jpg", 
+        "year": 1992, 
+        "imgId": 141, 
+        "styleId": 22, 
+        "thumbnailUrl": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/11006863_retour-a-la-nature-1992.jpg"
+      },  
+      {
+        "category": "painting", 
+        "style": "Modernism", 
+        "title": "Civilization", 
+        "url": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/10819315_les-civilisations-2016.jpg?v=1519380860", 
+        "year": 2016, 
+        "imgId": 143, 
+        "styleId": 22, 
+        "thumbnailUrl": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/10819315_les-civilisations-2016.jpg?v=1519380860"
+      }, 
+      {
+        "category": "painting", 
+        "style": "Modernism", 
+        "title": "The piano", 
+        "url": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/10603819_noel-1992.jpg", 
+        "year": 1992, 
+        "imgId": 144, 
+        "styleId": 22, 
+        "thumbnailUrl": "https://www.artmajeur.com/medias/standard/b/e/bega/artwork/10603819_noel-1992.jpg"
+      }
+   ]
+},
+
+
+{
+    "artistId": 18, 
+    "name": "Mihail Korubin", 
+    "country": "Macedonia", 
+    "exhebitionId": 6,
+    "exhebitionName": "Moment",
+    "period": "19.07.2018-09.08.2018", 
+    "images": [
+      {
+        "category": "painting", 
+        "style": "Portraiture", 
+        "title": "Morning", 
+        "url": "http://mihailkorubin.com/content/images/thumbs/0000148_morning_600.jpeg", 
+        "year": 2012, 
+        "imgId": 167, 
+        "styleId": 32, 
+        "thumbnailUrl": "http://mihailkorubin.com/content/images/thumbs/0000148_morning_600.jpeg"
+      }, 
+    
+      {
+        "category": "painting", 
+        "style": "Portraiture", 
+        "title": "Touch", 
+        "url": "http://mihailkorubin.com/content/images/thumbs/0000154_touch_600.jpeg", 
+        "year": 2014, 
+        "imgId": 163, 
+        "styleId": 32, 
+        "thumbnailUrl": "http://mihailkorubin.com/content/images/thumbs/0000154_touch_600.jpeg"
+      }, 
+      {
+        "category": "painting", 
+        "style": "Portraiture", 
+        "title": "Scent 1", 
+        "url": "http://mihailkorubin.com/content/images/thumbs/0000227_scent-1_600.jpeg", 
+        "year": 2017, 
+        "imgId": 164, 
+        "styleId": 32, 
+        "thumbnailUrl": "http://mihailkorubin.com/content/images/thumbs/0000227_scent-1_600.jpeg"
+      }, 
+      {
+        "category": "painting", 
+        "style": "Portraiture", 
+        "title": "Marvel", 
+        "url": "http://mihailkorubin.com/content/images/thumbs/0000146_marvel_600.jpeg", 
+        "year": 2012, 
+        "imgId": 165, 
+        "styleId": 32, 
+        "thumbnailUrl": "http://mihailkorubin.com/content/images/thumbs/0000146_marvel_600.jpeg"
+      }, 
+      {
+        "category": "painting", 
+        "style": "Portraiture", 
+        "title": "Modesty Blaize", 
+        "url": "http://mihailkorubin.com/content/images/thumbs/0000086_modesty-blaize_600.jpeg", 
+        "year": 2014, 
+        "imgId": 166, 
+        "styleId": 32, 
+        "thumbnailUrl": "http://mihailkorubin.com/content/images/thumbs/0000086_modesty-blaize_600.jpeg"
+      },
+      {
+        "category": "painting", 
+        "style": "Portraiture", 
+        "title": "Gaze", 
+        "url": "http://mihailkorubin.com/content/images/thumbs/0000230_gaze_600.png", 
+        "year": 2016, 
+        "imgId": 161, 
+        "styleId": 32, 
+        "thumbnailUrl": "http://mihailkorubin.com/content/images/thumbs/0000230_gaze_600.png"
+      },  
+      
+      {
+        "category": "painting", 
+        "style": "Portraiture", 
+        "title": "Moment", 
+        "url": "http://mihailkorubin.com/content/images/thumbs/0000147_moment_600.jpeg", 
+        "year": 2012, 
+        "imgId": 168, 
+        "styleId": 32, 
+        "thumbnailUrl": "http://mihailkorubin.com/content/images/thumbs/0000147_moment_600.jpeg"
+      }
+    ]
+ },
+
+
+ {
+       "artistId": 13, 
+       "name": "Cvetanka Jovanova", 
+       "country": "Macedonia", 
+       "exhebitionId": 7,
+       "exhebitionName": "Old Macedonian Towns",
+       "period": "11.08.2018-31.08.2018",   
+       "images": [  
+          {
+            "category": "painting", 
+            "style": "Realism", 
+            "title": "Kratovo", 
+            "url": "http://www.blesok.com.mk/Images/Gallery/98/cj/51.jpg", 
+            "year": 2014, 
+            "imgId": 117, 
+            "styleId": 34, 
+            "thumbnailUrl": "http://www.blesok.com.mk/Images/Gallery/98/cj/51.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Realism", 
+            "title": "Stip", 
+            "url": "http://www.blesok.com.mk/Images/Gallery/98/cj/57.jpg", 
+            "year": 2014, 
+            "imgId": 115, 
+            "styleId": 34, 
+            "thumbnailUrl": "http://www.blesok.com.mk/Images/Gallery/98/cj/57.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Realism", 
+            "title": "Krushevo", 
+            "url": "http://www.blesok.com.mk/Images/Gallery/98/cj/52.jpg", 
+            "year": 2014, 
+            "imgId": 116, 
+            "styleId": 34, 
+            "thumbnailUrl": "http://www.blesok.com.mk/Images/Gallery/98/cj/52.jpg"
+          }, 
+         
+          {
+            "category": "painting", 
+            "style": "Realism", 
+            "title": "Scenery", 
+            "url": "http://www.blesok.com.mk/Images/Gallery/98/cj/25.jpg", 
+            "year": 2013, 
+            "imgId": 119, 
+            "styleId": 34, 
+            "thumbnailUrl": "http://www.blesok.com.mk/Images/Gallery/98/cj/25.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Realism", 
+            "title": "Temple", 
+            "url": "http://www.blesok.com.mk/Images/Gallery/98/cj/18.jpg", 
+            "year": 2013, 
+            "imgId": 120, 
+            "styleId": 34, 
+            "thumbnailUrl": "http://www.blesok.com.mk/Images/Gallery/98/cj/18.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Realism", 
+            "title": "Debar", 
+            "url": "http://www.blesok.com.mk/Images/Gallery/98/cj/46.jpg", 
+            "year": 2012, 
+            "imgId": 123, 
+            "styleId": 34, 
+            "thumbnailUrl": "http://www.blesok.com.mk/Images/Gallery/98/cj/46.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Realism", 
+            "title": "Veles", 
+            "url": "http://www.blesok.com.mk/Images/Gallery/98/cj/36.jpg", 
+            "year": 2012, 
+            "imgId": 124, 
+            "styleId": 34, 
+            "thumbnailUrl": "http://www.blesok.com.mk/Images/Gallery/98/cj/36.jpg"
+          }
+     ]
+ },
+
+   {
+       "artistId": 20,  
+       "name": "Igor Ljubovcevski-Ljubac", 
+       "country": "Macedonia", 
+       "exhebitionId": 8,
+       "exhebitionName": "Strange People",
+       "period": "02.09.2018-22.09.2018",   
+       "images": [
+          {
+            "category": "painting", 
+            "style": "Expressionism", 
+            "title": "Collection", 
+            "url": "https://radar.mk/wp-content/uploads/2018/02/ljubac-maj-535x800.jpg", 
+            "year": 2016, 
+            "imgId": 181, 
+            "styleId": 13, 
+            "thumbnailUrl": "https://radar.mk/wp-content/uploads/2018/02/ljubac-maj-535x800.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Expressionism", 
+            "title": "Collection", 
+            "url": "https://scontent.fskp3-1.fna.fbcdn.net/v/t1.0-9/12592536_10208554388276733_6477772828660686098_n.jpg?_nc_cat=0&oh=ec58cc68e2d6f22189431e25a4f3d5da&oe=5BB2C259", 
+            "year": 2017, 
+            "imgId": 178, 
+            "styleId": 13, 
+            "thumbnailUrl": "https://scontent.fskp3-1.fna.fbcdn.net/v/t1.0-9/12592536_10208554388276733_6477772828660686098_n.jpg?_nc_cat=0&oh=ec58cc68e2d6f22189431e25a4f3d5da&oe=5BB2C259"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Expressionism", 
+            "title": "Collection", 
+            "url": "https://radar.mk/wp-content/uploads/2018/02/ljubac-4-800x455.jpg", 
+            "year": 2017, 
+            "imgId": 179, 
+            "styleId": 13, 
+            "thumbnailUrl": "https://radar.mk/wp-content/uploads/2018/02/ljubac-4-800x455.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Expressionism", 
+            "title": "Collection", 
+            "url": "https://radar.mk/wp-content/uploads/2018/02/ljubac-maj1-800x592.jpg", 
+            "year": 2017, 
+            "imgId": 180, 
+            "styleId": 13, 
+            "thumbnailUrl": "https://radar.mk/wp-content/uploads/2018/02/ljubac-maj1-800x592.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Expressionism", 
+            "title": "Collection", 
+            "url": "https://scontent.fskp3-1.fna.fbcdn.net/v/t1.0-9/25399104_10215014525416124_5133140670383940262_n.jpg?_nc_cat=0&oh=a4f20d18c3b6be38d980ffc4fecffb7c&oe=5BC449B6", 
+            "year": 2017, 
+            "imgId": 177, 
+            "styleId": 13, 
+            "thumbnailUrl": "https://scontent.fskp3-1.fna.fbcdn.net/v/t1.0-9/25399104_10215014525416124_5133140670383940262_n.jpg?_nc_cat=0&oh=a4f20d18c3b6be38d980ffc4fecffb7c&oe=5BC449B6"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Expressionism", 
+            "title": "Collection", 
+            "url": "https://scontent.fskp3-1.fna.fbcdn.net/v/t1.0-9/10169245_10203498192394996_467928470950151551_n.jpg?_nc_cat=0&oh=48328576db7ec456c6c93f6b556a4b41&oe=5BBF9D87", 
+            "year": 2016, 
+            "imgId": 182, 
+            "styleId": 13, 
+            "thumbnailUrl": "https://scontent.fskp3-1.fna.fbcdn.net/v/t1.0-9/10169245_10203498192394996_467928470950151551_n.jpg?_nc_cat=0&oh=48328576db7ec456c6c93f6b556a4b41&oe=5BBF9D87"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Expressionism", 
+            "title": "Collection", 
+            "url": "https://scontent.fskp3-1.fna.fbcdn.net/v/t1.0-9/31357546_10216173690154518_2247770103115140593_n.jpg?_nc_cat=0&oh=8b7918005790e4a335673474a78f1370&oe=5BC28D80", 
+            "year": 2018, 
+            "imgId": 184, 
+            "styleId": 13, 
+            "thumbnailUrl": "https://scontent.fskp3-1.fna.fbcdn.net/v/t1.0-9/31357546_10216173690154518_2247770103115140593_n.jpg?_nc_cat=0&oh=8b7918005790e4a335673474a78f1370&oe=5BC28D80"
+          }
+   ]
+},
+
+{
+       "artistId": 16, 
+       "name": "Vladimir Temelkov", 
+       "country": "Macedonia",  
+       "exhebitionId": 9,
+       "exhebitionName": "Abstract Collection",
+       "period": "01.10.2018-20.10.2018",   
+       "images": [   
+          {
+            "category": "painting", 
+            "style": "Abstract Art", 
+            "title": "Collection", 
+            "url": "http://images.tirekovmirece.com/images/DSC08665-04052011040413.jpg", 
+            "year": 2011, 
+            "imgId": 151, 
+            "styleId": 1, 
+            "thumbnailUrl": "http://images.tirekovmirece.com/images/DSC08665-04052011040413.jpg"
+          },
+          {
+            "category": "painting", 
+            "style": "Abstract Art", 
+            "title": "Collection", 
+            "url": "https://kanal5.com.mk/uploads/36-161-.jpg", 
+            "year": 2009, 
+            "imgId": 146, 
+            "styleId": 1, 
+            "thumbnailUrl": "https://kanal5.com.mk/uploads/36-161-.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Abstract Art", 
+            "title": "Collection", 
+            "url": "https://gdb.rferl.org/AD6F491D-A577-4F48-B91A-134EF7436B75_cx0_cy5_cw0_w1023_r1_s.jpg", 
+            "year": 2013, 
+            "imgId": 148, 
+            "styleId": 1, 
+            "thumbnailUrl": "https://gdb.rferl.org/AD6F491D-A577-4F48-B91A-134EF7436B75_cx0_cy5_cw0_w1023_r1_s.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Abstract Art", 
+            "title": "Collection", 
+            "url": "https://gdb.rferl.org/D6FFC115-5EB5-4A28-995B-2F26DACE1689_cx1_cy5_cw99_w1597_n_r1_s.jpg", 
+            "year": 2013, 
+            "imgId": 149, 
+            "styleId": 1, 
+            "thumbnailUrl": "https://gdb.rferl.org/D6FFC115-5EB5-4A28-995B-2F26DACE1689_cx1_cy5_cw99_w1597_n_r1_s.jpg"
+          }, 
+          {
+            "category": "painting", 
+            "style": "Abstract Art", 
+            "title": "Collection", 
+            "url": "http://images.tirekovmirece.com/images/DSC08663-04052011040359.jpg", 
+            "year": 2011, 
+            "imgId": 150, 
+            "styleId": 1, 
+            "thumbnailUrl": "http://images.tirekovmirece.com/images/DSC08663-04052011040359.jpg"
+          },  
+          {
+            "category": "painting", 
+            "style": "Abstract Art", 
+            "title": "Collection", 
+            "url": "http://images.tirekovmirece.com/images/DSC08667-04052011040426.jpg", 
+            "year": 2011, 
+            "imgId": 152, 
+            "styleId": 1, 
+            "thumbnailUrl": "http://images.tirekovmirece.com/images/DSC08667-04052011040426.jpg"
+          },
+          {
+            "category": "painting", 
+            "style": "Abstract Art", 
+            "title": "Collection", 
+            "url": "https://vecer.mk/files/styles/article/public/article/2015/01/18/zhitni-polinja-na-umetnikot-vladimir-temkov-219260.jpg?itok=LMd_zlJr", 
+            "year": 2017, 
+            "imgId": 145, 
+            "styleId": 1, 
+            "thumbnailUrl": "https://vecer.mk/files/styles/article/public/article/2015/01/18/zhitni-polinja-na-umetnikot-vladimir-temkov-219260.jpg?itok=LMd_zlJr"
+          }
+       ]
+   },
+
+   {
+    "artistId": 6, 
+    "name": "Zarko Jakimovski", 
+    "country": "Macedonia",  
+    "exhebitionId": 10,
+    "exhebitionName": "Memories MoCa",
+    "period": "05.11.2018-25.11.2018",
+    "images": [   
+            {
+              "category": "painting", 
+              "style": "Abstract Art", 
+              "title": "Collections", 
+              "url": "https://i.warosu.org/data/ic/img/0016/99/1397071375689.jpg", 
+              "year": 2014, 
+              "imgId": 50, 
+              "styleId": 1, 
+              "thumbnailUrl": "https://i.warosu.org/data/ic/img/0016/99/1397071375689.jpg"
+            }, 
+            {
+                "category": "painting", 
+                "style": "Abstract Art", 
+                "title": "Collections", 
+                "url": "https://www.mkd.mk/files/article/2013/12/02/mkd-91975.jpg", 
+                "year": 2014, 
+                "imgId": 49, 
+                "styleId": 1, 
+                "thumbnailUrl": "https://www.mkd.mk/files/article/2013/12/02/mkd-91975.jpg"
+            }, 
+            {
+              "category": "painting", 
+              "style": "Abstract Art", 
+              "title": "Sanatci", 
+              "url": "http://www.portakalcicegi.org/img/sanatci/p1/zarko/8.jpg", 
+              "year": 2015, 
+              "imgId": 51, 
+              "styleId": 1, 
+              "thumbnailUrl": "http://www.portakalcicegi.org/img/sanatci/p1/zarko/8.jpg"
+            }, 
+            {
+              "category": "painting", 
+              "style": "Abstract Art", 
+              "title": "Collections", 
+              "url": "https://www.dse.nl/~tachtigvragen/paintings/participants_images/044zarkojakimovski700.jpg", 
+              "year": 2014, 
+              "imgId": 52, 
+              "styleId": 1, 
+              "thumbnailUrl": "https://www.dse.nl/~tachtigvragen/paintings/participants_images/044zarkojakimovski700.jpg"
+            }, 
+            {
+              "category": "painting", 
+              "style": "Abstract Art", 
+              "title": "Collections", 
+              "url": "https://scontent-sea1-1.cdninstagram.com/vp/c1599ce26612e87d3190aadf427c51fd/5B395C62/t51.2885-15/s480x480/e35/c9.0.1061.1061/29091006_561961384181904_7932533321282617344_n.jpg?ig_cache_key=MTc0MDc0Nzg1MzE0OTUyMTc0NQ%3D%3D.2.c", 
+              "year": 1970, 
+              "imgId": 53, 
+              "styleId": 18, 
+              "thumbnailUrl": "https://scontent-sea1-1.cdninstagram.com/vp/c1599ce26612e87d3190aadf427c51fd/5B395C62/t51.2885-15/s480x480/e35/c9.0.1061.1061/29091006_561961384181904_7932533321282617344_n.jpg?ig_cache_key=MTc0MDc0Nzg1MzE0OTUyMTc0NQ%3D%3D.2.c"
+            }, 
+            {
+              "category": "drawing", 
+              "style": "Astract Art", 
+              "title": "MoCA", 
+              "url": "https://i.warosu.org/data/ic/img/0016/99/1397071208407.jpg", 
+              "year": 1979, 
+              "imgId": 56, 
+              "styleId": 39, 
+              "thumbnailUrl": "https://i.warosu.org/data/ic/img/0016/99/1397071208407.jpg"
+            }, 
+            {
+              "category": "drawing", 
+              "style": "Astract Art", 
+              "title": "MoCA", 
+              "url": "https://i.warosu.org/data/ic/img/0016/99/1397071544151.jpg", 
+              "year": 1979, 
+              "imgId": 57, 
+              "styleId": 1, 
+              "thumbnailUrl": "https://i.warosu.org/data/ic/img/0016/99/1397071544151.jpg"
+            }    
+      ]
+}
+]

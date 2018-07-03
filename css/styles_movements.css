@@ -1,0 +1,788 @@
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+html,body{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-image: url(https://cdn.pixabay.com/photo/2017/07/31/11/58/background-2557650_960_720.jpg);
+  height: 100%;
+}
+
+#home{
+  font-family: 'Nosifer', cursive;
+  color: #7B68EE;
+  position: relative;
+  top: 50px;
+  left: 20px;
+}
+
+li {
+  -webkit-perspective: 400px;
+          perspective: 400px;
+}
+.container{
+  background: cornflowerblue;
+}
+.info {
+  -webkit-transform: rotate3d(1, 0, 0, 90deg);
+          transform: rotate3d(1, 0, 0, 90deg);
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  pointer-events: none;
+  background-color: rgba(26, 188, 156, 0.9);
+}
+#one {
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/abstract_expressionism.jpg?1");
+}
+#two {
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/art_nouveau.jpg");
+}
+#three {
+background-image: url("http://www.theartstory.org/images20/new_design/collage/art_deco.jpg");
+}
+#four{
+background-image:url("http://www.theartstory.org/images20/new_design/collage/romanticism.jpg");
+}
+#five {
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/conceptual_art.jpg");
+}
+#six {
+background-image: url("http://www.theartstory.org/images20/new_design/collage/contemporary_realism.jpg");
+}
+#seven{
+background-image:url("http://www.theartstory.org/images20/new_design/collage/cubism.jpg");
+}
+#eight {
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/dada.jpg?3");
+}
+#nine{
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/expressionism.jpg?1");
+}
+#ten{
+background-image: url("http://www.theartstory.org/images20/new_design/collage/fauvism.jpg");
+}
+#eleven{
+background-image:url("http://www.theartstory.org/images20/new_design/collage/futurism.jpg");
+}
+#twelve{
+  background-image: url("https://russelltetherfineart.files.wordpress.com/2013/10/bror-utter-burlesque-queens-1956-oil-on-canvas.jpg?w=286");
+}
+#thirteen{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wilcox.jpg/220px-Wilcox.jpg");
+}
+#fourteen{
+background-image: url("http://www.theartstory.org/images20/new_design/collage/impressionism.jpg?1");
+}
+#fifteen {
+background-image:url("http://www.theartstory.org/images20/new_design/collage/installation_art.jpg");
+}
+#sixteen {
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/earth_art.jpg");
+}
+#seventeen {
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/minimalism.jpg");
+}
+#eighteen {
+background-image: url("http://www.theartstory.org/images20/new_design/collage/modern_art.jpg");
+} 
+#nineteen {
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFEmm0ULBnnmrfb9qSXHXeQmh8UksLMoGw6XooqD_tq3bts955");
+}
+#twenty{
+background-image:url("http://www.theartstory.org/images20/new_design/collage/neo_expressionism.jpg");
+}
+#twenty_one {
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/neo_impressionism.jpg");
+}
+#twenty_two {
+  background-image: url("https://i.ebayimg.com/images/g/BSMAAOSwiQ9ZVwAV/s-l300.jpg");
+}
+#twenty_three {
+background-image: url("http://craftshady.com/wp-content/uploads/2017/06/arts-and-crafts-paper-226x300.jpg");
+}
+#twenty_four{
+background-image:url("http://www.theartstory.org/images20/new_design/collage/perfomance_art.jpg");
+}
+#twenty_five {
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/photorealism.jpg");
+}
+#twenty_six{
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/pop_art.jpg?4");
+}
+#twenty_seven {
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mrs._Davies_Davenport_A30017.jpg/220px-Mrs._Davies_Davenport_A30017.jpg");
+}
+#twenty_eight{
+background-image:url("http://www.theartstory.org/images20/new_design/collage/post_impressionism.jpg");
+}
+#twenty_nine {
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/realism.jpg");
+}
+#thirty {
+  background-image: url("https://cdn.xamou-art.com/wp-content/uploads/2012/05/rococo-art-496x273.jpg");
+}
+#thirty_one {
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61XYablZbZ5TnY4S7jAqVfEd-t4dQzeZT0crB2ZVUGYTNrKDT2w");
+}
+#thirty_two{
+background-image:url("http://www.theartstory.org/images20/new_design/collage/surrealism.jpg?2");
+}
+#thirty_three {
+  background-image: url("http://www.theartstory.org/images20/new_design/collage/symbolism.jpg");
+}
+#thirty_four {
+  background-image: url("https://i.pinimg.com/236x/1a/f3/c2/1af3c2c9124de0ccf9a2d9522acb9529--cool-paintings-house-paintings.jpg");
+}
+#thirty_five {
+background-image: url("http://www.theartstory.org/images20/new_design/collage/early_renaissance.jpg");
+}
+#thirty_six{
+background-image:url("http://www.theartstory.org/images20/new_design/collage/romanticism.jpg");
+}
+.in-top .info {
+  -webkit-transform-origin: 50% 0%;
+          transform-origin: 50% 0%;
+  -webkit-animation: in-top 300ms ease 0ms 1 forwards;
+          animation: in-top 300ms ease 0ms 1 forwards;
+}
+
+.in-right .info {
+  -webkit-transform-origin: 100% 0%;
+          transform-origin: 100% 0%;
+  -webkit-animation: in-right 300ms ease 0ms 1 forwards;
+          animation: in-right 300ms ease 0ms 1 forwards;
+}
+
+.in-bottom .info {
+  -webkit-transform-origin: 50% 100%;
+          transform-origin: 50% 100%;
+  -webkit-animation: in-bottom 300ms ease 0ms 1 forwards;
+          animation: in-bottom 300ms ease 0ms 1 forwards;
+}
+
+.in-left .info {
+  -webkit-transform-origin: 0% 0%;
+          transform-origin: 0% 0%;
+  -webkit-animation: in-left 300ms ease 0ms 1 forwards;
+          animation: in-left 300ms ease 0ms 1 forwards;
+}
+
+.out-top .info {
+  -webkit-transform-origin: 50% 0%;
+          transform-origin: 50% 0%;
+  -webkit-animation: out-top 300ms ease 0ms 1 forwards;
+          animation: out-top 300ms ease 0ms 1 forwards;
+}
+
+.out-right .info {
+  -webkit-transform-origin: 100% 50%;
+          transform-origin: 100% 50%;
+  -webkit-animation: out-right 300ms ease 0ms 1 forwards;
+          animation: out-right 300ms ease 0ms 1 forwards;
+}
+
+.out-bottom .info {
+  -webkit-transform-origin: 50% 100%;
+          transform-origin: 50% 100%;
+  -webkit-animation: out-bottom 300ms ease 0ms 1 forwards;
+          animation: out-bottom 300ms ease 0ms 1 forwards;
+}
+
+.out-left .info {
+  -webkit-transform-origin: 0% 0%;
+          transform-origin: 0% 0%;
+  -webkit-animation: out-left 300ms ease 0ms 1 forwards;
+          animation: out-left 300ms ease 0ms 1 forwards;
+}
+
+@-webkit-keyframes in-top {
+  from {
+    -webkit-transform: rotate3d(-1, 0, 0, 90deg);
+            transform: rotate3d(-1, 0, 0, 90deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+}
+
+@keyframes in-top {
+  from {
+    -webkit-transform: rotate3d(-1, 0, 0, 90deg);
+            transform: rotate3d(-1, 0, 0, 90deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+}
+@-webkit-keyframes in-right {
+  from {
+    -webkit-transform: rotate3d(0, -1, 0, 90deg);
+            transform: rotate3d(0, -1, 0, 90deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+}
+@keyframes in-right {
+  from {
+    -webkit-transform: rotate3d(0, -1, 0, 90deg);
+            transform: rotate3d(0, -1, 0, 90deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+}
+@-webkit-keyframes in-bottom {
+  from {
+    -webkit-transform: rotate3d(1, 0, 0, 90deg);
+            transform: rotate3d(1, 0, 0, 90deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+}
+@keyframes in-bottom {
+  from {
+    -webkit-transform: rotate3d(1, 0, 0, 90deg);
+            transform: rotate3d(1, 0, 0, 90deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+}
+@-webkit-keyframes in-left {
+  from {
+    -webkit-transform: rotate3d(0, 1, 0, 90deg);
+            transform: rotate3d(0, 1, 0, 90deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+}
+@keyframes in-left {
+  from {
+    -webkit-transform: rotate3d(0, 1, 0, 90deg);
+            transform: rotate3d(0, 1, 0, 90deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+}
+@-webkit-keyframes out-top {
+  from {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+  to {
+    -webkit-transform: rotate3d(-1, 0, 0, 104deg);
+            transform: rotate3d(-1, 0, 0, 104deg);
+  }
+}
+@keyframes out-top {
+  from {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+  to {
+    -webkit-transform: rotate3d(-1, 0, 0, 104deg);
+            transform: rotate3d(-1, 0, 0, 104deg);
+  }
+}
+@-webkit-keyframes out-right {
+  from {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, -1, 0, 104deg);
+            transform: rotate3d(0, -1, 0, 104deg);
+  }
+}
+@keyframes out-right {
+  from {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, -1, 0, 104deg);
+            transform: rotate3d(0, -1, 0, 104deg);
+  }
+}
+@-webkit-keyframes out-bottom {
+  from {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+  to {
+    -webkit-transform: rotate3d(1, 0, 0, 104deg);
+            transform: rotate3d(1, 0, 0, 104deg);
+  }
+}
+@keyframes out-bottom {
+  from {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+  to {
+    -webkit-transform: rotate3d(1, 0, 0, 104deg);
+            transform: rotate3d(1, 0, 0, 104deg);
+  }
+}
+@-webkit-keyframes out-left {
+  from {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, 1, 0, 104deg);
+            transform: rotate3d(0, 1, 0, 104deg);
+  }
+}
+@keyframes out-left {
+  from {
+    -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+  }
+  to {
+    -webkit-transform: rotate3d(0, 1, 0, 104deg);
+            transform: rotate3d(0, 1, 0, 104deg);
+  }
+} 
+
+ul {
+  padding: 0;
+  margin: 0 0 50px;
+}
+ul:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+li {
+  position: relative;
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  padding: 0;
+  list-style: none;
+}
+li a {
+  display: inline-block;
+  vertical-align: top;
+  text-decoration: none;
+  border-radius: 4px;
+}
+li h3 {
+  margin: 0;
+  font-size: 16px;
+  color:aqua ;
+}
+li p {
+  font-size: 14px;
+  line-height: 2;
+  color: aqua;
+  font-weight: bold;
+}
+li .normal {
+  width: 100%;
+  height: 100%;
+  background-color: blueviolet;
+  color: rgba(52, 73, 94, 0.6);
+  box-shadow: inset 0 2px 20px #e6ebed;
+  text-align: center;
+  font-size: 50px;
+  line-height: 200px;
+}
+li .normal svg {
+  pointer-events: none;
+  width: 50px;
+  background-color: blueviolet;
+}
+li .normal svg path {
+  fill: rgba(52, 73, 94, 0.2);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff;
+}
+
+h1 {
+  margin: 0 auto 5px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Bree Serif', serif;
+}
+
+.container {
+  width: 840px;
+  margin: 0 auto;
+}
+
+header {
+  font-family: 'Bree Serif', serif;
+  text-align: center;
+  margin: 50px 0 25px;
+  color: #34495E;
+}
+header p {
+  margin: 0;
+  color: rgba(52, 73, 94, 0.4);
+}
+#myDiv{
+    margin:100px;
+    text-align: center;
+    background:	#FFEBCD;
+    color: #292929;
+    color: rgba(0, 0, 0, 0.82);
+    font-family: 'Arizonia', cursive;
+    font-family: 'Merienda One', cursive;
+    font-family: 'Patrick Hand SC', cursive;
+    -webkit-text-shadow: 0 1px 0 #e6e5e4;
+    -moz-text-shadow: 0 1px 0 #e6e5e4;
+    text-shadow: 0 1px 0 #E6E5E4;
+    -webkit-text-size-adjust: none;
+}
+#myDiv h2 {
+  color: #1E1B14;
+  color: rgba(30, 27, 20, 0.85);
+  font-family: 'Arizonia', cursive;
+  font-family: 'Merienda One', cursive;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 0.2em;
+  padding: 2em 0.5em 3.5em;
+  text-align: center;
+  text-transform: uppercase;
+  
+}
+#myDiv h2{
+  color: #890101;
+  text-decoration: none;
+  -moz-transition: 0.2s color linear;
+  -webkit-transition: 0.2s color linear;
+  transition: 0.2s color linear;
+}
+
+#myDiv h2:hover {
+  color: #DF3030;
+}
+#myDiv h2 i,#myDiv p i {
+  display: block;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0;
+}
+
+#myDiv h2 i {
+  margin-bottom: 0.2em;
+}
+
+#myDiv p {
+  margin: 0 0 0.2em; 
+  color: black;
+  text-decoration: none;
+  -moz-transition: 0.2s color linear;
+  -webkit-transition: 0.2s color linear;
+  transition: 0.2s color linear;
+}
+#myDiv p:hover {
+  color: teal;
+}
+#myDiv button{
+  font-family: 'Arizonia', cursive;
+  font-family: 'Merienda One', cursive;
+}
+#myDiv p i,#myDiv #aim {
+  color: #890101;
+  text-decoration: none;
+  -moz-transition: 0.2s color linear;
+  -webkit-transition: 0.2s color linear;
+  transition: 0.2s color linear;
+}
+#myDiv p i:hover, #myDiv #aim:hover{
+  color: #DF3030;
+}
+#myDiv p + p {
+  text-indent: 1.6em;
+}
+
+#myDiv .article {
+  line-height: 1.6;
+  margin: 0 auto 3em; 
+  width: 60%;
+}
+
+@media (max-width: 480px) {
+  .article {
+    width: 98%;
+  }
+}
+@media (max-width: 600px) {
+  .article {
+    font-size: 0.875em;
+    width: 90%;
+  }
+
+  h2 {
+    font-size: 0.9em;
+  }
+}
+@media (max-width: 800px) {
+  .article {
+    font-size: 0.9375;
+    line-height: 1.5;
+    width: 70%;
+  }
+}
+@media (min-width: 1200px) {
+  h2 {
+    font-size: 0.8125em;
+  }
+
+  .article {
+    font-size: 1.0625em;
+    line-height: 1.7;
+  }
+} 
+
+form {
+  padding: 20px;
+  text-align: left;
+}
+label {
+  color: #FFFFFF; 
+}
+input {
+  width: 80%;
+}
+.amg-button {
+  width: 80%;
+	display: inline-block;
+	padding: 10px 20px;
+	background: #39d084;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 20px;
+	margin: 10px 0;
+	-webkit-border-radius: 40px;
+	-moz-border-radius: 40px;
+	border-radius: 40px;
+  border: none;
+}
+
+/* Floating Contact ---------------------- */
+.amg-blue .amg-floating-icon, 
+.amg-blue .amg-floating-link {
+	background: #2c3e50;
+}
+.amg-dodger-blue .amg-floating-icon, 
+.amg-dodger-blue .amg-floating-link {
+	background: 	transparent;
+}
+.amg-orchid .amg-floating-icon, 
+.amg-orchid .amg-floating-link {
+	background: transparent;
+}
+.amg-green .amg-floating-icon, 
+.amg-green .amg-floating-link {
+	background: transparent;
+}
+.amg-crimson .amg-floating-icon, 
+.amg-crimson .amg-floating-link {
+	background: transparent;
+}
+.amg-gold .amg-floating-icon, 
+.amg-gold .amg-floating-link {
+	background: transparent;
+}
+.amg-coral .amg-floating-icon, 
+.amg-coral .amg-floating-link {
+  background: transparent;
+}
+.amg-hotpink .amg-floating-icon, 
+.amg-hotpink .amg-floating-link {
+  background: transparent;
+}
+.amg-floating-contact-wrap {
+  position: fixed;
+	right: -240px;
+	font-size: 20px;
+	opacity: 0.5;
+	z-index: 999;
+  -webkit-transition: right 1s;
+	-moz-transition: right 1s;
+	-o-transition: right 1s;
+	transition: right 1s;
+}
+.amg-floating-contact-wrap:first-child {
+	top: 70px;
+}
+.amg-floating-contact-wrap:nth-child(2) {
+	top: 125px;
+}
+.amg-floating-contact-wrap:nth-child(3) {
+	top: 180px;
+}
+.amg-floating-contact-wrap:nth-child(4) {
+	top: 235px;
+}
+.amg-floating-contact-wrap:nth-child(5) {
+	top: 290px;
+}
+.amg-floating-contact-wrap:nth-child(6) {
+	top: 235px;
+}
+.amg-floating-contact-wrap:nth-child(7) {
+	top: 290px;
+}
+.amg-floating-contact-wrap:nth-child(6) {
+	top: 345px;
+}
+.amg-floating-contact-wrap:nth-child(7) {
+	top: 400px;
+}
+.amg-floating-icon, .amg-floating-link {
+	text-align: center;
+}
+.amg-floating-icon {
+	width: 25px;
+	float: left;
+  padding: 0px;
+}
+.amg-floating-icon i:before {
+	vertical-align: middle;
+}
+.amg-floating-link {
+	width: 270px;
+  min-height: 48px;
+	padding: 10px 0;
+	overflow: hidden;
+}
+.amg-floating-link a {
+	white-space: nowrap; 
+  color: purple;
+	text-decoration: none;
+}
+.amg-floating-link a:hover {
+  
+  color:darkslategrey;
+}
+.amg-floating-link form, 
+.amg-floating-link a {
+	width: 240px !important;
+  margin: 0 10px;
+}
+/* Hover Effect */
+.amg-floating-contact-wrap.hover {
+	opacity: 1;
+  right: 0;
+}
+.amg-floating-contact-wrap.hover .amg-floating-link {
+	right: 0;
+}
+
+/* HTML Set up header */
+
+.links{
+  font-family: 'Nosifer', cursive;
+  font-size: 14px;
+  color: 	#6495ED;
+  position: relative;
+  display: inline-flex;
+  margin: auto;
+  top:20px;
+}
+.links a{
+  text-decoration-line: none;
+  padding-left: 2em; 
+}
+.links a:hover{
+  color: darkviolet;  
+}
+.links a:active{
+  color: gold;
+}
+.nav-top {
+  width: 100%;
+  height: 50px;
+  background-color:	#6495ED;
+  box-shadow: 0 0 0 2px #415976;
+  position: relative;
+  transition: all ease-in-out 300ms;
+  text-align: center;
+  border-style: groove;
+  z-index: 1;
+}
+
+.nav-top.open .links {
+  display: block;
+}
+
+.nav-top .links{
+  padding-top: 100px;
+  display: none;
+}
+
+.nav-top .links {
+  padding: 10px 0;
+  text-transform: uppercase;
+}
+
+.nav-top.open {
+  height: 100px;
+  background-color:	#87CEEB; 
+}
+
+.logo {
+  width: 70px;
+  height: 70px;
+  border: 2px dotted #6283ac;
+  border-radius: 50%;
+  background-color:	#87CEEB;
+  position: absolute;
+  left: 50%;
+  bottom: -35px;
+  transform: translate(-50%, 0);
+  cursor: pointer;
+  overflow: hidden;
+  z-index: 999;
+}
+
+.logo-hover {
+  text-align: center;
+  margin-top: 25px;
+  font-family: 'Nosifer', cursive;
+  font-size: 14px;
+  font-weight: bold;
+}
+.logo-hover:hover{
+  color:darkorchid;
+}
+
+.background-animated {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(0deg, #fff 10%, #17d498, #a34bd6);
+  background-size: 150% 200%;
+  animation: animated-background 2s ease infinite;
+}

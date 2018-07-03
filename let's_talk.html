@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document || Let's Talk</title>
+    <link rel="stylesheet" href="css/let's_talk.css" type="text/css" >
+</head>
+<body>
+
+  <nav class="nav-top">
+      <div class="logo">
+        <div class="logo-hover">MENU</div>
+        <!-- ☰ -->
+      </div>
+      <div class="links">
+        <a href="index.html">Home</a>
+        <a href="art_categories.html">Art & Categories</a>
+        <a href="artists.html">Artists</a>
+        <a href="styles_movements.html">Styles & Movements</a>
+        <a href="timelines.html">Timelines</a>
+        <a href="exhebitions.html">Exhebitions</a>
+        <a href="let's_talk.html">Let's Talk</a>
+      </div>
+  </nav>
+
+  <canvas id="canvas"></canvas>
+  
+  <div class="amg-floating-contacts">
+    <div class="amg-floating-contact-wrap amg-dodger-blue">
+      <div class="amg-floating-icon">
+        <img src="img/facebook33.png" width="60px" />
+      </div>
+      <div class="amg-floating-link amg-floating-facebook">
+        <a class="amg-nav-item" href="https://www.facebook.com/PhoenixArtGallery">Facebook</a>
+      </div>
+    </div>
+    <div class="amg-floating-contact-wrap amg-orchid">
+      <div class="amg-floating-icon">
+        <img src="img/twitter33.png" width="50px" />
+      </div>
+      <div class="amg-floating-link amg-floating-twitter">
+        <a class="amg-nav-item" href="https://www.twitter.com/PhoenixArtGallery">Twitter</a>
+      </div>
+    </div>
+    <div class="amg-floating-contact-wrap amg-green">
+      <div class="amg-floating-icon">
+        <img src="img/pinterest33.png" width="50px" />
+      </div>
+      <div class="amg-floating-link amg-floating-pinterest">
+        <a class="amg-nav-item" href="https://www.pinterest.com/PhoenixArtGallery">Pinterest</a>
+      </div>
+    </div>
+    <div class="amg-floating-contact-wrap amg-crimson">
+      <div class="amg-floating-icon">
+        <img src="img/reddit33.png" width="60px" />
+      </div>
+      <div class="amg-floating-link amg-floating-reddit">
+        <a class="amg-nav-item" href="https://www.reddit.com/PhoenixArtGallery">Reddit</a>
+      </div>
+    </div>
+    <div class="amg-floating-contact-wrap amg-gold">
+      <div class="amg-floating-icon">
+        <img src="img/rss33.png" width="50px" />
+      </div>
+      <div class="amg-floating-link amg-floating-rss">
+        <a class="amg-nav-item" href="https://www.rss.com/PhoenixArtGallery">RSS Reader</a>
+      </div>
+    </div>
+    <div class="amg-floating-contact-wrap amg-coral">
+      <div class="amg-floating-icon">
+        <img src="img/google33.png" width="50px" />
+      </div>
+      <div class="amg-floating-link amg-floating-google">
+        <a class="amg-nav-item" href="http://phoenixartgallery.com.mk">Google</a>
+      </div>
+    </div>
+    <div class="amg-floating-contact-wrap amg-hotpink">
+      <div class="amg-floating-icon">
+      <img src="img/gtalk33.png" width="60px" />
+      </div>
+      <div class="amg-floating-link amg-floating-email">
+        <form>
+          <label for="name">Name:</label>
+          <input type="text" id="name"/>
+          <label for="email">Email:</label>
+          <input type="text" id="email"/>
+          <label for="message">Message:</label>
+          <textarea type="text" id="message"></textarea>
+          <button class="amg-button" type="submit">Send</button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="scene">
+    <div class="scene initial">
+        <div class="cube one">
+          <div class="side back"> </div>
+          <div class="side left"> </div>
+          <div class="side right"></div>
+          <div class="side top"><img id="profile" src="img/logo.png" alt="logo_Art_Gallery" />
+            <h1>About</h1>
+          </div>
+          <div class="side bottom"></div>
+          <div class="side front"></div>
+          <div class="pop-out"></div>
+          <div class="aboutme">
+            <h2>PHOENIX ART GALLERY</h2>
+            <p><b>Phoenix Art Gallery</b><span> officially starts working in 2008 and for 10 years is a collective place for all art lovers.</span>
+         </p>
+          </div>
+        </div>
+      </div>
+      <div class="scene secondary"> 
+        <div class="cube two">
+          <div class="side back"> </div>
+          <div class="side left"> </div>
+          <div class="side right"></div>
+          <div class="side top"><img id="profile" src="https://cdn0.iconfinder.com/data/icons/seo-development-services-line/614/3273_-_Brainstorming-512.png"/>
+            <h1>Vision</h1>
+          </div>
+          <div class="side bottom"></div>
+          <div class="side front"></div>
+          <div class="pop-out"></div>
+          <div class="aboutme">
+            <h3>VISION</h3>
+            <p>Our vision<span class="skillspan"> is to be a regionally relevant art gallery focused on presenting selected artists on domestic and international art scene.</span></p>
+          </div>
+        </div>
+      </div>
+      <div class="scene tertiary"> 
+        <div class="cube three">
+          <div class="side back"> </div>
+          <div class="side left"> </div>
+          <div class="side right"></div>
+          <div class="side top"><img id="profile" src="https://d30y9cdsu7xlg0.cloudfront.net/png/775235-200.png"/>
+            <h1>Work</h1>
+          </div>
+          <div class="side bottom"></div>
+          <div class="side front"></div>
+          <div class="pop-out"></div>
+          <div class="aboutme">
+            <h3>WHAT WE DO</h3>
+            <p>In our gallery<span class="skillspan2"> you can find artworks of the authors with whom the gallery cooperates, as well as offer of artworks by old Macedonian authors - owned by private collections. 
+              We organize art events-exhebitions.</span></p>
+          </div>
+        </div>
+        <div class="scene fourth">
+          <div class="cube four">
+            <div class="side back"> </div>
+            <div class="side left"> </div>
+            <div class="side right"></div>
+            <div class="side top"><img id="profile" src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/contact-icon.png" alt="" />
+              <h1>Contact</h1>
+            </div>
+            <div class="side bottom"></div>
+            <div class="side front"></div>
+            <div class="pop-out"></div>
+            <div class="aboutme">
+              <h4>CONTACT US</h4>
+              <p class="skillspan3"><img src="http://marinerentalnetworks.com/images/icons/icon%20phone%20color.png " width="30px" alt="adress logo"/>
+                Теl: (+389) 02/2223-305</br> 
+                Моb: (+389) 77/223-305
+                <img src="http://www.locktech.be/site/misc/email.png" width="30px" alt="mail logo"/> Email:</br>info@phoenixgallery.com.mk
+                <img src="http://marinerentalnetworks.com/images/icons/icon%20address%20color.png" width="30px" alt="phone logo"/> Address:</br> 
+                St.Naroden Front No.19
+                Skopje, Macedonia
+              </p>
+          </div>
+        </div>
+        <div class="scene fifth">
+          <div class="cube five">
+            <div class="side back"> </div>
+            <div class="side left"> </div>
+            <div class="side right"></div>
+            <div class="side top"><img id="profile" src="http://ryonswebdesign.com/wp-content/uploads/2014/02/smm1.png" alt="" />
+              <h1>Media</h1>
+            </div>
+            <div class="side bottom"></div>
+            <div class="side front"></div>
+            <div class="pop-out"></div>
+            <div class="aboutme">
+              <h3>SOCIAL MEDIA</h3>
+              <p class="skillspan4">
+                <img src="http://cwen.or.ug/images/social/fbk.png" width="30px" alt="facebook logo"/>
+                <a href="https://www.facebook.com/PhoenixArtGallery">Facebook</a><br>
+                <img src="http://cwen.or.ug/images/social/new-twitter-bird.png" width="30px" alt="twitter logo"/>
+                <a href="https://www.twitter.com/PhoenixArtGallery">Twitter</a><br>
+                <img src="img/reddit7.png" width="25px" alt="reddit logo"/>
+                <a href="https://www.reddit.com/PhoenixArtGallery">Reddit</a><br>
+                <img src="http://www.iclatino.com/wp-content/uploads/2017/02/rss_feed_logo.png" width="30px" alt="rss logo"/>
+                <a href="https://www.rss.com/PhoenixArtGallery">RSS Reader</a><br>
+                <img src="https://www.switchdon.com/images/icons/pinterest.png" width="30px" alt="youtube logo"/>
+                <a href="https://www.pinterest.com/PhoenixArtGallery">Pinterest</a>
+
+           </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="wrapper">
+  
+        <div class="title"> Phoenix Art Gallery</div>
+  
+        <div class="role"> created by </div>
+        <div class="name"> cvetanka bozinoska </div>
+  
+        
+        <div class="role"> produced by </div>
+        <div class="name"> cvetanka bozinoska</div>
+      
+  
+        <div class="job"> project ideas </div>
+        <div class="name"> <a href="https://www.google.com/">Google</a> </div>
+    
+      
+        <div class="role"> source codes helper </div>
+        <div class="name"> <a href="https://codepen.io/">Codepen</a> </div>
+      
+
+        <div class="role"> story by</div>
+        <div class="name"> cvetanka bozinoska </div>
+    
+
+        <div class="role"> chief mentor </div>
+        <div class="name"> vekoslav stefanovski </div>
+
+
+        <div class="role"> responsible supervisor </div>
+        <div class="name"> SEDC Code Academy </div>
+  
+        <div class="role"> created by </div>
+        <div class="name"> cvetanka bozinoska </div>
+  
+        
+        <div class="role"> produced by </div>
+        <div class="name"> cvetanka bozinoska</div>
+      
+  
+        <div class="job"> project ideas </div>
+        <div class="name"> <a href="https://www.google.com/">Google</a> </div>
+    
+      
+        <div class="role"> source codes helper </div>
+        <div class="name"> <a href="https://codepen.io/">Codepen</a> </div>
+      
+
+        <div class="role"> story by</div>
+        <div class="name"> cvetanka bozinoska </div>
+    
+
+        <div class="role"> chief mentor </div>
+        <div class="name"> vekoslav stefanovski </div>
+
+
+        <div class="role"> responsible supervisor </div>
+        <div class="name"> SEDC Code Academy </div>
+  
+        <div class="role"> created by </div>
+        <div class="name"> cvetanka bozinoska </div>
+  
+        
+        <div class="role"> produced by </div>
+        <div class="name"> cvetanka bozinoska</div>
+      
+  
+        <div class="job"> project ideas </div>
+        <div class="name"> <a href="https://www.google.com/">Google</a> </div>
+    
+      
+        <div class="role"> source codes helper </div>
+        <div class="name"> <a href="https://codepen.io/">Codepen</a> </div>
+      
+
+        <div class="role"> story by</div>
+        <div class="name"> cvetanka bozinoska </div>
+    
+
+        <div class="role"> chief mentor </div>
+        <div class="name"> vekoslav stefanovski </div>
+
+
+        <div class="role"> responsible supervisor </div>
+        <div class="name"> SEDC Code Academy </div>
+  
+        <div class="role"> created by </div>
+        <div class="name"> cvetanka bozinoska </div>
+  
+        
+        <div class="role"> produced by </div>
+        <div class="name"> cvetanka bozinoska</div>
+      
+  
+        <div class="job"> project ideas </div>
+        <div class="name"> <a href="https://www.google.com/">Google</a> </div>
+    
+      
+        <div class="role"> source codes helper </div>
+        <div class="name"> <a href="https://codepen.io/">Codepen</a> </div>
+      
+
+        <div class="role"> story by</div>
+        <div class="name"> cvetanka bozinoska </div>
+    
+
+        <div class="role"> chief mentor </div>
+        <div class="name"> vekoslav stefanovski </div>
+
+
+        <div class="role"> responsible supervisor </div>
+        <div class="name"> SEDC Code Academy </div>
+        
+        <div class="role"> created by </div>
+        <div class="name"> cvetanka bozinoska </div>
+  
+        
+        <div class="role"> produced by </div>
+        <div class="name"> cvetanka bozinoska</div>
+      
+  
+        <div class="job"> project ideas </div>
+        <div class="name"> <a href="https://www.google.com/">Google</a> </div>
+    
+      
+        <div class="role"> source codes helper </div>
+        <div class="name"> <a href="https://codepen.io/">Codepen</a> </div>
+      
+
+        <div class="role"> story by</div>
+        <div class="name"> cvetanka bozinoska </div>
+    
+
+        <div class="role"> chief mentor </div>
+        <div class="name"> vekoslav stefanovski </div>
+
+
+        <div class="role"> responsible supervisor </div>
+        <div class="name"> SEDC Code Academy </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="js/let's_talk.js"></script>
+</body>
+</html>
